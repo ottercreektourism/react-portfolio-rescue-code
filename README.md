@@ -27,7 +27,7 @@ This project is my personal portfolio that I made using React and React-Bootstra
 
 When the user opens this application, they are able to view a picture of myself with a description of my professional capabilities, view various projects that I have done in several different languages, submit an email to me, or download my resume. The user is able to navigate these pages by clicking on the links in the navigation bar.
   
-  > Deployed Application: 
+  > Deployed Application: https://ottercreektourism.github.io/react-portfolio/
 
 
  ## Screenshots
